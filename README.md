@@ -1,2 +1,5 @@
 # react-textarea
-A textarea resizable with react
+A resizable textarea with react
+
+How to use:
+<ReactTextArea defaultValue={"your text"} readOnly={true} rows={3} cols={10}/>
